@@ -28,7 +28,7 @@ Stock Trading Platform is a Java-based application that simulates a basic stock 
 
 ## Flowchart:
 
-<img src="C:\Users\shudh\OneDrive\Pictures\Screenshots\stock_trading_platform (2).png"height>
+![Flowchart](images/stock_trading_platform.png)
 
 ## How to Run:
 
